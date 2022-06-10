@@ -1,3 +1,4 @@
+---
 This is my blog post
 ---
 title: "My Blog"
