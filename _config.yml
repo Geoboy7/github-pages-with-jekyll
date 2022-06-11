@@ -2,13 +2,19 @@ title: Aidans Page
 author: Aidan
 email: aidangb10@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-
+---
 Aidan Gomez-Blanco
+---
 Instagram- aidan_gomez_blanco
+---
 3 things abou me-
+---
   I play golf.
+---
   I like vidoegames.
+---
   I won the Time Magazine Person of the Year Award in 2006.
+---
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
